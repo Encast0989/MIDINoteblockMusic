@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.encast</groupId>
-    <artifactId>NoteblockMusic</artifactId>
+    <artifactId>MIDINoteblockMusic</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>NoteblockMusic</name>
+    <name>MIDINoteblockMusic</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
