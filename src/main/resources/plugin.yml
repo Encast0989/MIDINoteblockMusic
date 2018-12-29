@@ -8,4 +8,4 @@ commands:
   song:
     description: Plays a song.
   stopsong:
-    description: Stops a song.
+    description: Stops the currently playing song.
