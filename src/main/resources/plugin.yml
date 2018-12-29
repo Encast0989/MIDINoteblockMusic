@@ -1,0 +1,11 @@
+name: MIDINoteblockMusic
+version: ${project.version}
+main: me.encast.midinoteblockmusic.MIDINoteblockMusic
+authors: [Encast]
+description: Converts and plays MIDI songs into noteblock songs.
+
+commands:
+  song:
+    description: Plays a song.
+  stopsong:
+    description: Stops a song.
