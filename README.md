@@ -4,6 +4,7 @@ Converts MIDI songs into Minecraft noteblock songs.
 **NOTE**: Reloading the server while a song is playing will cause issues! Due to how the MIDI files are played
 and converted, reloading the server will continue the playback of the song (which may be a good thing), but it
 cannot it be stopped.
+
 **NOTE**: Due to Minecraft's octave constraint, notes in octaves that aren't the first or second octave get transposed
 down so that the song can play properly. The downside to this is that songs may sound repetitive in areas, or might
 not be recognizable at all.
