@@ -14,5 +14,5 @@ not be recognizable at all.
 the command /song <name> - the name can be anything, the folder will be generated for you!
 3. Add .mid files into the MIDINoteblockMusic folder - it's recommended that you name the file something friendly.
 4. Use /song <name> to start playing the song - do not add .mid to the end of the name!
-  > To stop the song, use /stopsong
+5. To stop the song, use /stopsong
   
